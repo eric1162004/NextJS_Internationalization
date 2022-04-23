@@ -1,0 +1,4 @@
+{
+    "title": "關於我",
+    "introduction": "我的名字是 {{name}} 和我是 {{age}} 歲。"
+  }
